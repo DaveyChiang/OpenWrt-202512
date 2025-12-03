@@ -190,7 +190,7 @@ install_small8() {
         tuic-client chinadns-ng ipt2socks tcping trojan-plus simple-obfs shadowsocksr-libev \
         v2dat adguardhome luci-app-adguardhome ddns-go luci-app-ddns-go taskd luci-lib-xterm \
         luci-lib-taskd luci-app-store luci-app-cloudflarespeedtest netdata luci-app-netdata \
-        luci-app-openclash luci-app-amlogic luci-app-wechatpush luci-i18n-wechatpush-zh-cn
+        luci-app-openclash luci-app-wechatpush luci-i18n-wechatpush-zh-cn
 }
 
 install_fullconenat() {
